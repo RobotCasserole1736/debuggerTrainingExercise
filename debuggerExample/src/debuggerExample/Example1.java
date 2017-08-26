@@ -49,7 +49,7 @@ public class Example1 implements Example {
 			}
 			
 		} else {
-			//we've hit the end, nothing else to do
+			//we've hit the end of the range we care about, nothing else to do
 		}
 		
 	}
